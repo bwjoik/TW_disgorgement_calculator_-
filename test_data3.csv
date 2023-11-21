@@ -1,0 +1,7 @@
+﻿type_of_trade,date_of_trade,purchase_share,purchase_price,sale_share,sale_price
+purchase,2008/6/1,10000,50,,
+purchase,2008/6/15,10000,60,,
+purchase,2008/6/30,10000,65,,
+sale,2008/8/1,,,10000,45
+sale,2008/8/15,,,10000,55
+sale,2008/8/31,,,20000,70
