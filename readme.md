@@ -19,12 +19,12 @@
 2. 出現重複價格的複數交易：不確定是否能夠處理，考題較不常出現，待改善
 
 ---
-date_of_trade:交易時間
-type_of_trade:交易類型(買入或賣出)
-purchase_share:買入股數
-purchase_price:買入股價
-sale_share:賣出股數
-sale_price:買出股價
+1. date_of_trade:交易時間
+2. type_of_trade:交易類型(買入或賣出)
+3. purchase_share:買入股數
+4. purchase_price:買入股價
+5. sale_share:賣出股數
+6. sale_price:買出股價
 ---
 ### 計算邏輯
 
