@@ -1,7 +1,9 @@
 # 歸入權計算器
+
 <a target="_blank" href="https://colab.research.google.com/github/bwjoik/disgorgement_calculator">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+---
 這是一個贖罪的project，我在111學年度下學期東吳大學法律學系莊永丞教授法四D開設的證券交易法的期末考上，算錯歸入權。
 
 這個project聚焦在中華民國證券交易法規定之下，法律相關考題的歸入權計算問題。
